@@ -11,3 +11,6 @@ may arise.
 ## Tools:
 This is an iPython notebook and requires:
  
+ + Pandas and Numpy
+ + Matplotlib
+ 
