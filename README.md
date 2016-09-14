@@ -1,5 +1,7 @@
 # Exploring the state of the Internet in Various Economies
 
+![Image](https://github.com/gmsardane/Exploring-the-state-of-the-Internet-in-Various-Economies/blob/master/2016%20Average%20Internet%20Speeds.png)
+
 The goal of this project is to see how the connectivity relates to the economy 
 of a particular nation. This is an incomplete analysis, for the time being. For 
 now this analysis links the per capita GDP to the internet penetration percentage for a given country.
