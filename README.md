@@ -1,6 +1,6 @@
 # Exploring the state of the Internet in Various Economies
 
-![Image](https://github.com/gmsardane/Exploring-the-state-of-the-Internet-in-Various-Economies/blob/master/2016%20Average%20Internet%20Speeds.png)
+![Image](https://github.com/gmsardane/Exploring-the-state-of-the-Internet-in-Various-Economies/blob/master/2016_Avg_Internet_Speeds.png)
 
 The goal of this project is to see how the connectivity relates to the economy 
 of a particular nation. This is an incomplete analysis, for the time being. For 
