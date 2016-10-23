@@ -10,7 +10,7 @@ In this analysis, we link the per capita GDP to the internet penetration percent
 Here, we see that wealthier countries have larger portions of the population that are connected via the Internet. Obviously, this is because richer economies can afford technology infrastructure, as opposed to poorer ones.
 
 ![Image](https://github.com/gmsardane/Exploring-the-state-of-the-Internet-in-Various-Economies/blob/master/2016_Avg_Internet_Speeds.png)
-We can also see a color map of internet speeds per nation. On average, connection speeds are not spectacular, anywhere in the world. Scandinavian countries top the list. The United States, on average, is typical 10$^{ish}$ Mbps. Whilst, a large portion of the WORLD is towards the red end. Africa is largely dark.
+We can also see a color map of internet speeds per nation. On average, connection speeds are not spectacular, anywhere in the world. Scandinavian countries top the list. The United States, on average, is typical ~10 Mbps. Whilst, a large portion of the WORLD is towards the red end. Africa is largely dark.
 
 In the future, we hope to see what how the economy evolves with technology. How does the "happiness" of people connect with technology?
 What about crime and corruption? How is the internet relevant to improving health? As the exploration continues, perhaps, more questions 
