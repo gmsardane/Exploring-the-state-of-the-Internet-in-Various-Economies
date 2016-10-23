@@ -3,6 +3,8 @@
 The goal of this project is to see how the connectivity relates to the economy 
 of a particular nation. And how an economy grows because of better and increased connectivity. We want to argue that in this day and age, economies, and people flourish, in part, as a result of better access to the world wide web, which can facilitate a more efficient exchange, not just of ideas, but of commerce as well.
 
+Economic data are fished from the [WORLD BANK](http://databank.worldbank.org/data/reports.aspx?Code=NY.GDP.PCAP.CD&id=af3ce82b&report_name=Popular_indicators&populartype=series&ispopular=y). Internet data is from [Akamai](https://www.akamai.com/us/en/our-thinking/state-of-the-internet-report/)
+
 ![Image](https://github.com/gmsardane/State-of-the-Internet/blob/master/GDP_versus_Depth.png)
 In this analysis, we link the per capita GDP to the internet penetration percentage for a given country.
 Here, we see that wealthier countries have larger portions of the population that are connected via the Internet. Obviously, this is because richer economies can afford technology infrastructure, as opposed to poorer ones.
