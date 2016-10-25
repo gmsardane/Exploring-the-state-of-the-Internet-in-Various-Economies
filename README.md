@@ -21,6 +21,7 @@ This is an iPython notebook and requires:
  
  + Pandas and Numpy
  + Matplotlib
+ * Plotly Choropleth (with username and password)
 
 Plotly can be installed via a pip install. But, this also requires an account and a key from the [Plotly](https://plot.ly/python/choropleth-maps/) API to create the maps.
 
